@@ -1,8 +1,37 @@
-# React + Vite
+# Aladdin Flying Carpet Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Aladdin Game](./public/Game.png)](https://allauddin-game.vercel.app/)  
+[![Aladdin Game Over](./public/Game_over.png)](https://allauddin-game.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🪄 **Immersive Gameplay**: Navigate Aladdin on his flying carpet, dodge obstacles, and collect points.
+- 🎵 **Dynamic Background Music**: Starts with any keypress for a fully immersive experience.
+- ⚡ **Real-time Collision Detection**: Enhanced hitbox for a more realistic gaming challenge.
+- 🎨 **Beautiful Visuals**: Animated sprites and dynamic backgrounds inspired by Arabian nights.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS  
+- **State Management**: React Hooks (`useState`, `useEffect`, `useRef`, `useCallback`)  
+- **Audio Handling**: HTML5 Audio API for background music  
+- **Animation**: CSS animations for sprites and transitions  
+
+---
+
+## 📝 Installation
+
+Follow these steps to set up and run the game locally:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/uday778/Allauddin_game.git
+cd allauddin_game
+
+
+
